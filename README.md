@@ -1,2 +1,3 @@
 SpiritGame
 ==========
+Readme not done.
