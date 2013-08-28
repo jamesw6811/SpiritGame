@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-09-26T19:53:02</date>
+  <millis>1348703582691</millis>
+  <sequence>0</sequence>
+  <logger>spiritgameclient.SpiritGame</logger>
+  <level>SEVERE</level>
+  <class>spiritgameclient.SpiritGame</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>java.net.SocketException: Connection reset</message>
+  <exception>
+    <message>java.net.SocketException: Connection reset</message>
+    <frame>
+      <class>java.net.SocketOutputStream</class>
+      <method>socketWrite</method>
+      <line>96</line>
+    </frame>
+    <frame>
+      <class>java.net.SocketOutputStream</class>
+      <method>write</method>
+      <line>115</line>
+    </frame>
+    <frame>
+      <class>java.io.DataOutputStream</class>
+      <method>writeInt</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>spiritgameclient.SpiritGame</class>
+      <method>processMouse</method>
+      <line>144</line>
+    </frame>
+    <frame>
+      <class>spiritgameclient.SpiritGame</class>
+      <method>run</method>
+      <line>190</line>
+    </frame>
+    <frame>
+      <class>spiritgameclient.SpiritGame</class>
+      <method>main</method>
+      <line>71</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-09-26T22:04:44</date>
+  <millis>1348711484984</millis>
+  <sequence>0</sequence>
+  <logger>spiritgameclient.SpiritGame</logger>
+  <level>SEVERE</level>
+  <class>spiritgameclient.SpiritGame</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>java.net.ConnectException: Connection refused</message>
+  <exception>
+    <message>java.net.ConnectException: Connection refused</message>
+    <frame>
+      <class>java.net.PlainSocketImpl</class>
+      <method>socketConnect</method>
+    </frame>
+    <frame>
+      <class>java.net.PlainSocketImpl</class>
+      <method>doConnect</method>
+      <line>351</line>
+    </frame>
+    <frame>
+      <class>java.net.PlainSocketImpl</class>
+      <method>connectToAddress</method>
+      <line>213</line>
+    </frame>
+    <frame>
+      <class>java.net.PlainSocketImpl</class>
+      <method>connect</method>
+      <line>200</line>
+    </frame>
+    <frame>
+      <class>java.net.SocksSocketImpl</class>
+      <method>connect</method>
+      <line>366</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>connect</method>
+      <line>529</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>connect</method>
+      <line>478</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>&lt;init&gt;</method>
+      <line>375</line>
+    </frame>
+    <frame>
+      <class>java.net.Socket</class>
+      <method>&lt;init&gt;</method>
+      <line>189</line>
+    </frame>
+    <frame>
+      <class>spiritgameclient.SpiritGame</class>
+      <method>initNetwork</method>
+      <line>98</line>
+    </frame>
+    <frame>
+      <class>spiritgameclient.SpiritGame</class>
+      <method>create</method>
+      <line>91</line>
+    </frame>
+    <frame>
+      <class>spiritgameclient.SpiritGame</class>
+      <method>main</method>
+      <line>59</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>

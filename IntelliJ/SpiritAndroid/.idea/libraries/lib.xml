@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SpiritBase/dist/lib/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpiritBase/dist/lib/macosx_natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpiritBase/dist/lib/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpiritBase/dist/lib/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpiritBase/dist/lib/windows_natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpiritBase/dist/lib/linux_natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpiritBase/dist/lib/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpiritBase/dist/lib/jinput.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
